@@ -16,8 +16,8 @@ services:
 
       # The Curse Forge URL of the modpack to use. Add the verion URL of the specific version at the end to pin the modpack version
 #      CF_PAGE_URL: "https://www.curseforge.com/minecraft/modpacks/all-the-mods-8/files/4633481"
-      CF_PAGE_URL: "https://www.curseforge.com/minecraft/modpacks/cobblemon-star-academy"
-#      CF_PAGE_URL: "https://www.curseforge.com/minecraft/modpacks/cobblemon-star-academy/files/6281002"
+#      CF_PAGE_URL: "https://www.curseforge.com/minecraft/modpacks/cobblemon-star-academy"
+      CF_PAGE_URL: "https://www.curseforge.com/minecraft/modpacks/cobblemon-star-academy/files/6281002"
 
 #      # The project ID of mods to exclude.
 #      CF_EXCLUDE_MODS: "486778"
